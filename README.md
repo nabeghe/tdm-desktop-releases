@@ -2,6 +2,8 @@
 
 **TDM Desktop** — A powerful Telegram download manager that lets you save various types of content from Telegram.
 
+<img width="300" height="300" alt="TDM Desktop Icon" src="https://github.com/user-attachments/assets/abc3b06d-4ca9-40f8-a3a5-3f04da751daf" />
+
 ## Features
 
 * Download protected/restricted content from channels, groups, and bots, including protected media
@@ -17,7 +19,7 @@ Take full control of your Telegram content with a fast, modern, and powerful des
 
 Using TDM Desktop is simple.
 
-<img width="1280" height="688" alt="photo_2026-06-21_17-04-14" src="https://github.com/user-attachments/assets/f3f37ae5-5a71-4dea-bbfe-9629b8832dba" />
+<img width="1280" height="688" alt="TDM Desktop Start Screen" src="https://github.com/user-attachments/assets/f3f37ae5-5a71-4dea-bbfe-9629b8832dba" />
 
 ### Logging In
 
