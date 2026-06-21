@@ -17,8 +17,7 @@ Take full control of your Telegram content with a fast, modern, and powerful des
 
 Using TDM Desktop is simple.
 
-![Uploading photo_2026-06-21_17-04-14.jpg…]()
-
+<img width="1280" height="688" alt="photo_2026-06-21_17-04-14" src="https://github.com/user-attachments/assets/f3f37ae5-5a71-4dea-bbfe-9629b8832dba" />
 
 ### Logging In
 
