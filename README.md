@@ -19,7 +19,9 @@ Take full control of your Telegram content with a fast, modern, and powerful des
 
 Using TDM Desktop is simple.
 
-<img width="1280" height="688" alt="TDM Desktop Start Screen" src="https://github.com/user-attachments/assets/f3f37ae5-5a71-4dea-bbfe-9629b8832dba" />
+<p align="center">
+  <img width="1280" height="688" alt="TDM Desktop Start Screen" src="https://github.com/user-attachments/assets/f3f37ae5-5a71-4dea-bbfe-9629b8832dba" width="300" />
+</p>
 
 ### Logging In
 
