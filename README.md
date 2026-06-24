@@ -30,7 +30,7 @@ Using TDM Desktop is simple.
 
 ### Logging In
 
-1. Download the application from the [GitHub Releases section](https://github.com/nabeghe/tdm-desktop-releases/releases).
+1. Download the application from the [GitHub Releases section](https://github.com/nabeghe/tdm-desktop-releases/releases/).
 2. Extract the downloaded archive to any location.
 3. Run `TDM.exe`.
 4. Click **Start Downloading**.
